@@ -1,1 +1,1 @@
-obj-y:=processInfo.o
+obj-y := processInfo.o list_sleep_processes.o
